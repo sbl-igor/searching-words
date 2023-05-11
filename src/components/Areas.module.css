@@ -1,0 +1,27 @@
+.areas {
+    margin: 20px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 90%;
+    border: 2px solid black;
+}
+
+.areaForYourText {
+    margin: 20px 0;
+    width: 50%;
+}
+
+#textareaForYourText {
+    width: 100%;
+    min-height: 500px;
+    resize: none;
+}
+
+.textDone {
+    width: 45%;
+}
+
+.textDone p {
+
+}
