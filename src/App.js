@@ -25,7 +25,7 @@ function App() {
 
     }
     for (let i = 0; i <= keywords.length; i++) {
-      let regex = new RegExp(`${keywords[i]}`,'g'); // regular expression of KEYWORD
+      let regex = new RegExp(`${keywords[i]}`,'gim'); // regular expression of KEYWORD
       text = text.replace(regex, (elem) => {
         return randomTags(keywords[i]);
       })
