@@ -1,5 +1,3 @@
-1. Создание полей ввода и вывода текста на тайском.
-2. Поиск всех слов из массива ключевых слов в тексте, вывод их в консоль. (реверснуть массив)
-3. Написание функций по изменению их decoration.
-4. Поле lowerCase для ссылок.
-5. Залить на GitHub.
+Searching for keywords in the entered text, changing their style (either bold or italic) to promote the site in search
+Has the area for change URL to link in usual look.
+[LOOK THE PROJECT](https://shimmering-toffee-9400f1.netlify.app/)
